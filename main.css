@@ -1,0 +1,15 @@
+
+body{
+    background: orange;
+
+}
+h1{
+    color: red;
+}
+p{
+    color: purple;
+}
+.loud_text {
+    background-color: tomato;
+    text-align: center;
+    color: cornflowerblue;
