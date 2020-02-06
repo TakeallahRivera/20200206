@@ -1,12 +1,16 @@
+h1{
+    color: red;
+    padding: 20px;
+    margin-left: 25%;
+}
 
-<body>
-<h1>HTML Can be more Fun than Python</h1>
-<h2>But is html more Fun than Java?</h2>
-<p>Some thinks Switch-Cases are better than If statements.</p>
-<p>Most think For Loops are better than While Loops.</p>
-</body>
+h2 {
+    color: blue;
+    border: 1px solid black;
 
+}
 
-
-<link rel="stylesheet" href="./Problem1.css">
-
+.better{
+    color: green;
+    font: bold;
+}
